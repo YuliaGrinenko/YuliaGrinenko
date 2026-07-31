@@ -1,24 +1,16 @@
 # Hi, I'm Yuliia 👋
 
-## About Me
-
 I'm an aspiring **Data Analyst** with over **7 years of HR experience** in the IT industry. After completing a **Level 3 Data Technician Skills Bootcamp**, I transitioned into data analytics and enjoy transforming data into meaningful insights through analysis, visualisation, and dashboards.
 
 ---
 
 ## 🛠️ Skills
 
-**Programming & Databases**
-- Python
+- Python (Pandas, Matplotlib, NumPy)
 - SQL (MySQL)
-
-**Data Analysis & Visualisation**
 - Power BI
 - Tableau
 - Microsoft Excel
-- Pandas
-- NumPy
-- Matplotlib
 
 **Tools**
 - Git & GitHub

@@ -4,8 +4,6 @@
 
 I'm an aspiring **Data Analyst** with over **7 years of HR experience** in the IT industry. After completing a **Level 3 Data Technician Skills Bootcamp**, I transitioned into data analytics and enjoy transforming data into meaningful insights through analysis, visualisation, and dashboards.
 
-I'm passionate about solving business problems with data and continuously expanding my technical skills.
-
 ---
 
 ## 🛠️ Skills
@@ -35,7 +33,7 @@ I'm passionate about solving business problems with data and continuously expand
 ### 🐍 HR Attrition Analysis (Python)
 Analysed an employee attrition dataset using Python. Performed data cleaning, exploratory data analysis, and created visualisations to identify trends in employee turnover.
 
-**Skills:** Python, Pandas, NumPy, Matplotlib
+**Skills:** Python, Pandas, Matplotlib
 
 ---
 
@@ -56,7 +54,7 @@ Analysed retail sales data using Excel. Built dashboards with Pivot Tables, XLOO
 ### 🌍 Global Happiness Analysis (Tableau)
 Created an interactive Tableau dashboard to explore global happiness trends and analyse relationships between happiness scores and socio-economic indicators.
 
-**Skills:** Tableau, Data Visualisation, Dashboard Design
+**Skills:** Tableau, Data Visualisation
 
 ---
 

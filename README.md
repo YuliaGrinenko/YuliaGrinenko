@@ -1,6 +1,6 @@
 # Hi, I'm Yuliia 👋
 
-I'm an aspiring **Data Analyst** with over **7 years of HR experience** in the IT industry. After completing a **Level 3 Data Technician Skills Bootcamp**, I transitioned into data analytics and enjoy transforming data into meaningful insights through analysis, visualisation, and dashboards.
+I'm a **Data Analyst** with over **7 years of HR experience** in the IT industry. After completing a **Level 3 Data Technician Skills Bootcamp**, I transitioned into data analytics and enjoy transforming data into meaningful insights through analysis, visualisation, and dashboards.
 
 ---
 

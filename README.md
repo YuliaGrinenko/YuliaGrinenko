@@ -58,10 +58,3 @@ Designed and built a relational database in MySQL and wrote SQL queries to analy
 
 **Skills:** SQL, MySQL, Database Design, Data Analysis
 
----
-
-## 📫 Connect With Me
-
-💼 **Portfolio:** https://your-portfolio-link.netlify.app
-
-💼 **LinkedIn:** www.linkedin.com/in/yuliia-hrinenko-03b38b94

@@ -1,11 +1,7 @@
 # Hi, I'm Yuliia 👋
 
-HR & Data Analytics | People Analytics | HR Process Automation
-
 I am an HR professional with 7+ years of experience in international IT companies, now combining my HR background with data analytics and automation skills.
-
 My experience in HR Business Partnering, HR systems and employee data helps me understand not only how to analyse data, but also how to use it to support people-related decisions and improve HR processes.
-
 I am developing my skills in data analysis, visualisation and automation, with a particular interest in HR Analytics and People Analytics.
 
 ---
@@ -66,6 +62,6 @@ Designed and built a relational database in MySQL and wrote SQL queries to analy
 
 ## 📫 Connect With Me
 
-💼 **Portfolio:** https://your-portfolio-link.netlify.app](https://portfolio-yulia-hrinenko.netlify.app/)
+💼 **Portfolio:** https://your-portfolio-link.netlify.app
 
 💼 **LinkedIn:** www.linkedin.com/in/yuliia-hrinenko-03b38b94
